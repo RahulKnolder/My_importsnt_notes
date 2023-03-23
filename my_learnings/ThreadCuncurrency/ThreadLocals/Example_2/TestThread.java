@@ -1,4 +1,4 @@
-package ThreadCuncurrency.ThreadLocals;
+package ThreadCuncurrency.ThreadLocals.Example_2;
 
 public class TestThread {
     public static void main(String args[]) {
